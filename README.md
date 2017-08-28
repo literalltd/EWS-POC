@@ -2,7 +2,7 @@
 
 Sample test of EWS Java API connecting to Office365 (Exchange 2010)
 
-This repo contains a built ews-java-api JAR that was sourced from
+This repo contains a built ews-java-api JAR that was sourced from https://github.com/OfficeDev/
 
 In order to run you need to update the main class with Office365 credentials:
 
