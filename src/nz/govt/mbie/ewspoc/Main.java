@@ -48,7 +48,7 @@ class Main {
 		EmailMessage msg= new EmailMessage(service);
 		msg.setSubject("Hello world!");
 		msg.setBody(MessageBody.getMessageBodyFromText("Sent using the EWS Java API."));
-		msg.getToRecipients().add("damian.rosewarne@mbie.govt.nz");
+		msg.getToRecipients().add("xxxxxxxxxxxxx");
 		//msg.send();
 		
 		
