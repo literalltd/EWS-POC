@@ -22,10 +22,9 @@ import microsoft.exchange.webservices.data.search.ItemView;
 import microsoft.exchange.webservices.data.autodiscover.*;
 
 class Main {
-	static String email_address = "damian@literalgroup.com";
-	static String email_password = "ewstesting123!";
+	static String email_address = "xxxxxxxxxxxxx";
+	static String email_password = "xxxxxxxxxxxxx";
 	
-
 	
 	public Main() throws Exception {
 	}
@@ -33,8 +32,6 @@ class Main {
 	/**
 	 * @throws Exception 
 	 */
-	@SuppressWarnings("unused")
-	
 	public static void main(String[] args) throws Exception {
 
 		/*
